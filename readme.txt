@@ -13,7 +13,7 @@ Moments in Time Dataset one million videos for event understanding.pdf
 On the Integration of Optical Flow and Action Recognition.pdf
 Optical Flow Guided Feature A Fast and Robust Motion.pdf
 PoTion Pose MoTion Representation for Action Recognition.pdf
-readme.txt
 Towards Universal Representation for Unseen Action Recognition.pdf
 What have we learned from deep representations for action recognition.pdf
 What Makes a Video a Video Analyzing Temporal Information in Video.pdf
+技术交流QQ群action_recognition：333571956
